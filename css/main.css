@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(67, 231, 231);
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(67, 231, 231);
+}
+
+li {
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+li a:hover {
+    background-color: rgb(48, 204, 224);
+}
+
+.about{
+    position: relative;
+    width: auto;
+    height: min-content;
+    left: 315px;
+    bottom: 415px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+caption{
+    position: relative;
+    bottom: 8px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.breadcrumbs{
+    position: relative;
+    bottom: 234px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.education{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.city{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.interests{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+}
+
+.achievments{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,17 @@
+table{
+    position: relative;
+    width: 90%;
+    height: 600px;
+}
+
+tr{
+    height: 30px;
+    position: relative;
+}
+
+td{
+    width: 30%;
+    position: relative;
+    border: 1px solid;
+    border-color: rgb(0, 0, 0);
+}
