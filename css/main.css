@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(67, 231, 231);
+    background-color: rgb(235, 161, 92);
 }
 
 ul {
     list-style-type: none;
     overflow: hidden;
     font-family: 'Montserrat', sans-serif;
-    background-color: rgb(67, 231, 231);
+    background-color: rgb(235, 161, 92);
 }
 
 li {
@@ -24,7 +24,7 @@ li a {
 }
 
 li a:hover {
-    background-color: rgb(48, 204, 224);
+    background-color: rgb(187, 128, 74);
 }
 
 .about{

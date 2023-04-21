@@ -1,0 +1,85 @@
+.first_block #f {
+    border: 1px solid red;
+    padding: 10px;
+    letter-spacing: 3px;
+}
+.first_block #s {
+    border: 1px solid red;
+    padding: 10px;
+    letter-spacing: 0.01px;
+}
+.first_block #t {
+    border: 1px solid red;
+    padding: 10px;
+    word-spacing: 10px;
+}
+.first_block #t {
+    border: 1px solid red;
+    padding: 10px;
+    word-spacing: 15px;
+}
+.first_block #fo {
+    border: 1px solid red;
+    padding: 10px;
+    word-spacing: 1px;
+}
+.first_block #fi {
+    border: 1px solid red;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.first_block #si {
+    border: 1px solid red;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: lowercase;
+}
+.second_block table{
+    border: 1px solid aqua;
+    table-layout: auto;
+}
+.second_block td{
+    width: 50px;
+    background-color: aqua;
+    empty-cells: hide;
+}
+.third_block #tb_f{
+    text-align-last: right;
+}
+.third_block #tb_s{
+    text-align-last: center;
+}
+.block4 #b4_f{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.block4 #b4_s{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    overflow: scroll;
+}
+.block4 #b4_t{
+    border: 1px solid red;
+    height: 100px;
+    overflow: scroll;
+}
+.block4 #b4_fo{
+    border: 1px solid red;
+    height: 50px;
+    overflow: visible;
+}
+.block4 #b4_fi{
+    border: 1px solid red;
+    width: auto;
+    height: 40px;
+    overflow: scroll;    
+}
+.block5{
+    background-image: url('img/1.jpg');
+    overflow: auto;
+    width: 500px;
+    height: 500px;
+}
